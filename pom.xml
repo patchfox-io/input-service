@@ -12,7 +12,7 @@
 	
 	<groupId>io.patchfox.input-service</groupId>
 	<artifactId>input-service</artifactId>
-	<version>0.0.34</version>
+	<version>0.0.35</version>
 	<name>input-service</name>
 	
 	<properties>
@@ -57,7 +57,7 @@
 		<dependency>
   			<groupId>io.patchfox.utils</groupId>
   			<artifactId>package-utils</artifactId>
-  			<version>1.0.9</version>			
+  			<version>1.0.10</version>
 		</dependency>
 
 		<dependency>
